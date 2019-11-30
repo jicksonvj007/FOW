@@ -1,0 +1,56 @@
+@CHARSET "ISO-8859-1";
+body{
+	margin:0;
+	padding:0;
+	background: url("../images/bgfive.jpg");
+	background-size: cover;
+	font-family: sans-serif;
+}
+h1{
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 22 px;
+	align: center;
+	color: #ffffffd1;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+li{
+	float:left;
+}
+li a{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+li a:hover{
+	background-color: #111;
+}
+.btn{
+	margin-left: 1060x
+}
+.btn button
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #ic8abd;
+	color: #0080ff;
+	font-size: 18px;
+	border-radius: 20px;
+	cursor: pointer;
+	/*background: transparent;*/
+	color: #795548;
+	
+}
+.btn button:HOVER{
+	background-color: #80ffff;
+}

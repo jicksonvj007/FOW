@@ -1,0 +1,75 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	margin: 0;
+	padding: 0;
+	background: url("../images/bgone.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+}
+
+.itembox {
+	width: 301px;
+	height: 246px
+	background: rgba(0, 0, 0, 0.5);
+	color: #000000;
+	top: 50%;
+	left: 50%;
+	position: translate(-50%, -50%,);
+	box-sizing: border-box;
+	padding: 0px 30px;
+	margin-left: 527px;
+	box-shadow: 0 0 20px 4px black; */
+	margin-top: 58px;
+	/*box-shadow: 0 0 20px 2px black;*/
+	border-radius: 7px;
+}
+
+h1 .{
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 22 px;
+}
+
+.itembox p {
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+
+.itembox input {
+	width: 97%;
+    margin-bottom: 26px;
+}
+
+.itembox input[type="text"], {
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: black;
+	outline: none;
+	height: 40px;
+	color: #edece8;
+	font-size: 18px;
+}
+
+.itembox input[type="submit"] {
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #ic8abd;
+	color: #000000;
+	font-size: 18px;
+	border-radius: 20px;
+}
+
+.itembox input[type="submit"] {
+	cursor: pointer;
+	background: #3f51b5;
+	color: #000;
+}
+
+.itembox input[type="submit"]:HOVER {
+	background-color: #0080c0;
+}

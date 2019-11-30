@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+body {
+	background: url("../img/one.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: black;
+	font-style: bold;
+}
+
+.go {
+	margin-top: 50px;
+	margin-left: 1350px;
+}

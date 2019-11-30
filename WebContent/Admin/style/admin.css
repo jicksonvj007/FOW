@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+@import url(https://fonts.googleapis.com/css?family=Roboto:300);
+.bgpic {
+	background-image: url("../pics/1.jpg");
+	background-size:cover;
+}
+bodyT{
+	background-image: url("../pics/col.jpg");
+	background-repeat: no-repeat;
+	height: 100vh;
+	background-size:cover;
+	background-position: center;
+}
